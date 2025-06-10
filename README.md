@@ -40,7 +40,7 @@ Proje, **Python** ve **PyCryptodome** kütüphanesi kullanılarak geliştirilmi�
 
 ---
 
-YouTube Tanıtım Videosu: [YouTube Video Linkiniz Buraya Gelecek](https://youtu.be/hskqoePMnzo)
+YouTube Tanıtım Videosu: [YouTube Video linki için buraya tıklayın](https://youtu.be/hskqoePMnzo)
 
 ## Kurulum ve Çalıştırma
 
