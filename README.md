@@ -50,5 +50,6 @@ pip install pycryptodome
 
 # Uygulamayı çalıştırın
 python main_gui.py
+---
 
 YouTube Tanıtım Videosu: [YouTube Video Linkiniz Buraya Gelecek](https://www.youtube.com/watch?v=VIDEO_ID)
