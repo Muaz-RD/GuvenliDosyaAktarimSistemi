@@ -1,4 +1,4 @@
-# 🔐 Gelişmiş Güvenli Dosya Aktarım Sistemi
+#  Gelişmiş Güvenli Dosya Aktarım Sistemi
 
 Bu proje, bilgisayar ağları için geliştirilmiş, şifreleme ve paket yönetimi prensipleriyle güvenli dosya transferini sağlayan bir sistemdir.  
 Amacı, modern şifreleme algoritmaları (**AES** ve **RSA**) kullanarak **veri gizliliği ve bütünlüğünü sağlarken**, ağ performansını analiz etmek ve **düşük seviyeli ağ protokollerine dair pratik deneyim** sunmaktır.  
@@ -6,7 +6,7 @@ Sistem, kullanımı kolay bir **Grafik Kullanıcı Arayüzü (GUI)** ile birlikt
 
 ---
 
-## ✨ Temel Özellikler
+##  Temel Özellikler
 
 - **Güvenli Dosya Aktarımı**: AES ve RSA şifrelemesi ile dosyaları güvenli bir şekilde gönderir ve alır.  
 - **Paket Yönetimi**: Büyük dosyaları uygulama katmanında parçalara ayırır ve yeniden birleştirir.  
@@ -15,7 +15,7 @@ Sistem, kullanımı kolay bir **Grafik Kullanıcı Arayüzü (GUI)** ile birlikt
 
 ---
 
-## 🛠️ Çalışma Prensibi
+## Çalışma Prensibi
 
 Proje, **Python** ve **PyCryptodome** kütüphanesi kullanılarak geliştirilmiştir.
 
@@ -30,7 +30,7 @@ Proje, **Python** ve **PyCryptodome** kütüphanesi kullanılarak geliştirilmi�
 
 ---
 
-## 💻 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 - Python 3.x  
 - Tkinter (GUI için)  
@@ -40,7 +40,9 @@ Proje, **Python** ve **PyCryptodome** kütüphanesi kullanılarak geliştirilmi�
 
 ---
 
-## 🚀 Kurulum ve Çalıştırma
+YouTube Tanıtım Videosu: [YouTube Video Linkiniz Buraya Gelecek](https://youtu.be/hskqoePMnzo)
+
+## Kurulum ve Çalıştırma
 
 ```bash
 # Projeyi GitHub'dan klonlayın
@@ -52,4 +54,4 @@ pip install pycryptodome
 python main_gui.py
 ---
 
-YouTube Tanıtım Videosu: [YouTube Video Linkiniz Buraya Gelecek](https://youtu.be/hskqoePMnzo)
+
